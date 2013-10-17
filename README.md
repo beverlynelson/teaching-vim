@@ -1,7 +1,7 @@
-Teaching VIM
+Teaching Vim
 ============
 
-Resources and samples for teaching VIM 
+Resources and samples for teaching Vim
 
 * Elementary
 * Middle School
